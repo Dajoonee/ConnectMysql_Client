@@ -1,0 +1,2 @@
+rootProject.name='Final Connecting Mysql'
+include ':app'
